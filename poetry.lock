@@ -1,0 +1,62 @@
+[[package]]
+category = "main"
+description = "Python library for creating and drawing graphs and taking advantage of graph properties"
+name = "abstract"
+optional = false
+python-versions = "~=3.6"
+version = "2020.7.26"
+
+[package.dependencies]
+base32hex = "*"
+colouration = "*"
+graphviz = "*"
+
+[[package]]
+category = "main"
+description = "RFC 4648 Extended Hex Alphabet"
+name = "base32hex"
+optional = false
+python-versions = "*"
+version = "1.0.2"
+
+[[package]]
+category = "main"
+description = "Python library for working with colours"
+name = "colouration"
+optional = false
+python-versions = "~=3.6"
+version = "2020.7.26"
+
+[[package]]
+category = "main"
+description = "Simple Python interface for Graphviz"
+name = "graphviz"
+optional = false
+python-versions = ">=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*"
+version = "0.16"
+
+[package.extras]
+dev = ["tox (>=3)", "flake8", "pep8-naming", "wheel", "twine"]
+docs = ["sphinx (>=1.8)", "sphinx-rtd-theme"]
+test = ["mock (>=3)", "pytest (>=4)", "pytest-mock (>=2)", "pytest-cov"]
+
+[metadata]
+content-hash = "50e145b4419d60418edd890a82908e728bfa37cea2d46c47fad29222dd1cf976"
+python-versions = "^3.8"
+
+[metadata.files]
+abstract = [
+    {file = "abstract-2020.7.26-py3-none-any.whl", hash = "sha256:587efc364845898192351009bf0769fdc4a99424d53663ae6617eee04619cb8c"},
+    {file = "abstract-2020.7.26.tar.gz", hash = "sha256:51922b884570cbb4dcd174d44d324c28b33c3b8dc43ff02693152ac7156dd8c6"},
+]
+base32hex = [
+    {file = "base32hex-1.0.2.tar.gz", hash = "sha256:b7f5088239ab71202451c2f8472836e08766aca7ab7a304063c8a6d54f591bf1"},
+]
+colouration = [
+    {file = "colouration-2020.7.26-py3-none-any.whl", hash = "sha256:824e4883c6b3596759ec5f8c4e2b74c6530373507c074901a62ee8c495bd80f4"},
+    {file = "colouration-2020.7.26.tar.gz", hash = "sha256:13420ac5cc7a6be3b1be9a3730614678a23a3fe2a8abdc7f5bf7fea614d6f224"},
+]
+graphviz = [
+    {file = "graphviz-0.16-py2.py3-none-any.whl", hash = "sha256:3cad5517c961090dfc679df6402a57de62d97703e2880a1a46147bb0dc1639eb"},
+    {file = "graphviz-0.16.zip", hash = "sha256:d2d25af1c199cad567ce4806f0449cb74eb30cf451fd7597251e1da099ac6e57"},
+]

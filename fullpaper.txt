@@ -1,0 +1,1228 @@
+Received: 22 May 2018 
+Revised: 15 October 2020 
+Accepted: 22 October 2020 
+
+DOI: 10.1111/1748-8583.12330 
+- 
+- 
+SPECIAL ISSUE 
+Team‐level human resource attributions and performance 
+Di Fan1 | Yufang Huang2 | Andrew R Timming3 
+
+1Department of Management & Marketing, Swinburne Business School, Faculty of Business and Law, Swinburne University of Technology, Melbourne, Australia 
+2School of Business, Jiangnan University, Wuxi, China 
+3School of Management, College of Business, RMIT University, Melbourne, Australia 
+Correspondence 
+Yufang Huang, School of Business, Jiangnan University, Wuxi, China. 
+Email: huangyufang@jiangnan.edu.cn 
+Abstract 
+Drawing on attribution theory, this study explores the relationship between team‐level human resource attribu tions (HRAs) and team performance, and explains how transformational leadership moderates this relationship. The data were collected from leaders and subordinates across 77 work teams, for a total of 708 participants employed in seven manufacturing and service organiza tions in China. The study finds that the relationship be tween commitment‐focused team‐level HRAs and team performance is mediated by team engagement, and that self‐awareness of transformational leadership significantly strengthens the positive relationship between these vari ables. However, parallel moderated mediation relationships are not evident between control‐focused team‐level HRAs and team performance. The study is among the first to explore team‐level HRAs and contributes to the scholarly debates on the role of attributions in explaining the so‐ called ‘black box’ between HRM and performance. 
+KEYWORDS 
+attribution theory, human resource attributions, team engagement, team performance, self‐awareness of transformational leadership 
+
+Abbreviations: CFI, comparative fit index; CI, confidence interval; CMB, common method bias; df, degrees of freedom; H1a, hypothesis 1a; H1b, hypothesis 1b; H2a, hypothesis 2a; H2b, hypothesis 2b; HPWS, high‐performance work systems; HR, human resource; HRAs, human resource attributions; ICC, intraclass correlation coefficients; p (the p‐value), the probability of obtaining results at least as extreme as the observed results of a statistical hypothesis test; RMSEA, root mean square error of approximation; r (the r‐value), the correlation coefficient; rwg(j), the index estimates interrater agreement for a group; SEM, structural equation modelling; SRMR, standardized root mean square residual; TL, transformational leadership; TLI, Tucker–Lewis index; χ2, chi‐square. 
+Hum Resour Manag J. 2020;1–22. wileyonlinelibrary.com/journal/hrmj © 2020 John Wiley & Sons Ltd.
+1
+- 
+
+2 
+- 
+PRACTITIONER NOTES 
+What is currently known 
+� Employees attribute the managerial motivations underlying formalized HR practices � The formation of attributions affects an employee's cognitive and behavioural outcomes � HRA theory distinguishes commitment‐focused and control‐focused HRAs What this article adds 
+� We highlight the importance of developing team‐level HRAs within working teams � Team engagement mediates commitment‐focused team HRAs and team performance � No mediating effect is found between control‐focused team HRAs and team performance � A moderated mediation effect involving transformational leadership is evident Implications for practitioners 
+� Team‐level HRAs within working teams can be proactively developed 
+� Transparently explaining motivations for HR practices is crucial to manage teams 
+FAN ET AL.
+
+� When employee‐oriented HR practices are attributed collectively by team members, a higher level of team engagement (and performance) is followed. 
+� This positive link is further enhanced if team leaders can demonstrate transformational leadership. 
+1 | INTRODUCTION 
+Attribution theory holds that individuals interpret the causes of others' behaviours through a series of cognitive processes pertaining to the locus of causality, which in turn influences their own cognitive and behavioural outcomes (Heider, 1958; Kelley, 1967; Weiner, 1986). Inspired by attribution theory, Nishii, Lepak, and Schneider (2008, p. 507), with a focus on formalized HR practices, introduced the innovative concept of human resource attributions (HRAs), which refers to the ‘causal explanations that employees make regarding management's motivations for using particular human resource (HR) practices’. In the context of managerial decision‐making, HR practices are an important element of the working environment for employees and are always open to interpre tation. To forecast and control uncertainty, employees are prone to interpret the underlying ‘real’ reasons for the implementation of HR practices (Nishii et al., 2008). Thus, the relationship between HRM and organizational performance depends on the attributions that employees impute onto the motives that underlie human resource decision‐making (Lepak, Jiang, Han, Castellano, & Hu, 2012; Nishii et al., 2008). 
+Although HRA theory has attracted increasing scholarly attention over the last decade, research on the individual and organizational consequences of HRAs is deficient. To date, existing studies have remained mostly at the individual level of analysis (Chen & Wang, 2014; Fontinha, Chambel, & Cuyper, 2012; Shantz, Arevshatian, Alfes, & Bailey, 2016; Van de Voorde & Beijer, 2015), but recent advances in team‐level HRM (Hewett, Shantz, Mundy, & Alfes, 2018; Lin & Sanders, 2017; Peccei & Van De Voorde, 2019) have pointed to the vital importance of social context in determining, or at least shaping, individuals' perceptions. Indeed, sociologists have long argued that individuals do not, and cannot, make sense of the world in a nonsocial vacuum (Berger & Luckmann, 1966; Garfinkel, 1984). Attributions are, therefore, necessarily socially embedded phenomena, with the implication being that any focus on individual attributions alone likely paints an incomplete picture. Team members must exchange information with each other to make collective sense of their work. In this light, Bowen and Ostroff's (2004) 
+FAN ET AL. 
+3
+- 
+process‐based theory is a useful framework to better understand how collective meaning emerges and is ascribed by employees and teams to HR practices. 
+This study poses the following research question: what is the nature of the relationship between, and boundary conditions surrounding, team‐level HRAs and team performance? In answering this question, we endeavour to make three major theoretical contributions. First, this study pioneers the exploration of team‐level HRA research. When Nishii et al. (2008) proposed HRA theory, they called for further explorations of how individual HR attributions can be aggregated to the team level, yet, to date, few studies have tested HRAs at the organizational, collective, or unit level (Hewett et al., 2018). Previously, it was only theoretically plausible that individuals' attributions could be aggregated to form sui generis collective attributions that explain team‐level outcomes and processes (Hewett et al., 2018; Martinko, Harvey, & Dasborough, 2011). In light of the present study, we now know that it is empirically plausible. 
+Second, the study contributes to the scholarly debates on the role of attribution theories in explaining the ‘black box’ between HRM and performance (Bowen & Ostroff, 2004; Guest, 2011; Hewett et al., 2018; Ostroff & Bowen, 2016; Sanders & Yang, 2016; Weller, Süß, Evanschitzky, & von Wangenheim, 2020). Once a team‐ level HRA is formed, this should, in turn, affect the team members' cognitions, emotions and behavioural intentions, which may further impact performance outcomes. Yet, what has remained absent in the wider HR‐performance link literature is an in‐depth analysis of the relationship between team‐level HRAs and team performance, and of the underlying mechanisms that explain this relationship. The present study thus sheds a new empirical and conceptual light on the mediating role of team engagement between team‐level HRAs and team performance. 
+Third, adopting the construct of transformational leadership, this study advances our understanding of the boundary conditions of team leadership in team‐level HRAs. Existing research suggests that different kinds of HR attributions might have differing motivational effects on organization‐level performance (Nishii et al., 2008; Van de Voorde & Beijer, 2015). Bowen and Ostroff (2004, p. 215) suggest that future research should explore how ‘factors such as leadership … affect the strength of the situation and […] foster the development of a shared climate’. In a similar vein, this special issue calls for further studies to explore the leadership conditions under which HR attributions lead to mutual gains or conflicting outcomes. Our research answers these calls by elaborating on how self‐awareness of transformational leadership moderates the relationship between team‐level HRAs and team engagement, which further enhances team performance. 
+2 | THEORY AND HYPOTHESIS DEVELOPMENT 
+2.1 | Theorising HRAs at the team level 
+The aim of theorising HRAs at the team level is to develop Nishii et al. (2008) theory of individual HRAs into a collective and team‐based theory. To this end, we employ extant arguments of team‐level HRM (cf. Hewett et al., 2018; Lin & Sanders, 2017; Peccei & Van De Voorde, 2019) as well as collective sensemaking (Morrison & Milliken, 2000; Thomas, Clark, & Gioia, 1993; Weick, 1995). We draw from a symbolic interactionist framework because of its ability to successfully explain the organic emergence of collective meaning (Blumer, 1986; Mead, 2015). The socially constituted processes of sensemaking in a multilevel context are central to symbolic interactionism and the social construction of knowledge (Berger & Luckmann, 1966). 
+Although attribution theory was first introduced to organization studies in the late 20th century, the theory has not received much attention until the last decade (Harvey, Madison, Martinko, Crook, & Crook, 2014; Lepak et al., 2012; Martinko et al., 2011). A growing number of scholars (Harvey et al., 2014; Martinko et al., 2011) have noted that the explanatory potential of attribution theory applies to almost every domain of workplace behaviour. In short, Nishii et al. (2008) argue that employees attempt to explain the managerial motivations underlying 
+
+4 
+- 
+FAN ET AL.
+
+formalized HR practices (such as staffing, training, benefits, pay and performance appraisals). These explanations, in turn, affect employees' own attitudes and behaviours and, ultimately, firm performance. In this sense, employees’ experiences and sense‐making (Weick, 1995) of managerial motivations for implementing HR practices have important consequences for employee commitment and job satisfaction. Thus, studying HRAs is not only theoretically meaningful, but also it throws an important light on the microlevel foundations of HRM research (Harvey et al., 2014). 
+When developing HRA theory, Nishii et al. (2008) distinguished two major types of subjective components to HR motives: what they called commitment‐focused HRAs, where employees perceive that the intended goals of HR practices are to improve work quality and employee well‐being, and control‐focused HRAs, which refer to employees’ perceptions that the intended goals of HR practices are to reduce costs and exploit the workforce. In essence, commitment‐focused HRAs are employee‐oriented and control‐focused ones are organization‐oriented. Nishii et al. (2008) argue that employees respond attitudinally and behaviourally to HR practices based on the potential values that they impute via the attributions. Commitment‐focused HRAs thus have positive value that is associated with positive behavioural intentions such as increased organizational commitment. In contrast, control‐ focused HRAs have negative value that is associated with negative behavioural intentions, such as lower affective commitment. 
+Using Nishii et al.'s (2008) model, researchers have conducted individual‐level empirical studies and found that commitment‐focused HRAs not only increase job satisfaction (Shantz et al., 2016), organizational commitment (Fontinha et al., 2012; Van de Voorde & Beijer, 2015) and perceived organizational support and task performance (Chen & Wang, 2014; Van de Voorde & Beijer, 2015), but also effectively reduce employee work stress (Van de Voorde & Beijer, 2015) and emotional exhaustion (Shantz et al., 2016). However, scholars have found mixed results between control‐focused HRAs and work attitudes and behaviours. For example, studies (Chen & Wang, 2014; Fontinha et al., 2012; Shantz et al., 2016) have shown that control‐focused HRAs reduce employees’ emotional commitment and lead to emotional exhaustion, while Van de Voorde and Beijer (2015) found that there is no relationship between control‐focused HRAs and commitment. The extent to which these relationships (or lack of relationships) are context‐specific is open to question (Ji, Schwarz, & Nisbett, 2000). 
+In short, attribution theory holds that attributions of others’ behaviours influence an individual's own expec tations, emotions, and motivations and these, in turn, will shape one's emotional and behavioural responses (Weiner, 1986). However, we argue that attributions not only operate at an individual level, but also can be aggregated collectively within a work unit, such as a team. Although employees attach individual meanings to HR practices, a collective perception may also emerge within a team through the processes of collective sensemaking (Morrison & Milliken, 2000; Weick, 1995), defined as a fundamentally social process in which members of a team jointly ‘interpret their environment in and through interactions with others, constructing accounts that allow them to comprehend the world and act collectively’ (Maitlis, 2005, p. 21; Maitlis & Christianson, 2014). 
+Collective sensemaking happens through three mechanisms: overlapping ‘causal maps’, communication between team members and homogeneity of member background. First, this collective sensemaking process at the team level is similar to the emergence of overlapping ‘causal maps’ through cognitive processing (Weick, 1995; Maitlis & Christianson, 2014; Sanders & Yang, 2016). Individuals can be said to develop causal maps, which are cognitive representations of the entities in the situation, certain qualities of those entities and perceived linkages between them. Working in the same organization and team environment, team members' causal maps are likely to overlap or converge to some extent, leading to the emergence of team‐level attributions. Second, communication is central to sensemaking (Weick, 1995). Through communication and information exchange, employees may strengthen their collective attributions and develop relatively stable mental models, which may then serve as a foundation for team‐level HRAs (Klein, Wiggins, & Dominguez, 2010). Third, collective sensemaking is also developed through homogeneity of employee background, whereby it is argued that similar values, personalities, cognitions and interests emerge organically through symbolic interaction within work teams. Such homogeneity of background is likely to increase over time, which leads team members to converge in their HR attributions. 
+FAN ET AL. 
+5
+- 
+Thus, we argue that the team is an appropriate level of analysis for examining how employees collectively appraise management's motivations for deploying HR practices. Based on the interactionist perspective outlined in this paragraph, we anticipate that HRAs are not only individual‐level phenomena, but also exist, sui generis, at a team level. These team‐based HRAs can be conceptualized as commitment‐focused and control‐focused, as dichotomized by Nishii et al. (2008). 
+2.2 | The mediating effect of team engagement 
+It is not clear, based on extant research, how or why commitment‐focused and/or control‐focused HRAs might impact on an organizational outcome like team performance, defined here as a managerial assessment of the quality of work and effectiveness of a team. In the light of this lack of clarity, the aim of this paragraph is to reason through the relationship between team‐level HRAs and team performance, with a particular focus on trying to better understand the mechanism linking the two variables. At present, the literature on the effect of HRAs fails to account for the complexity of a team‐level mediation, and instead focuses on individual‐level variables. Current research on HRA theory (Nishii et al., 2008) assumes that individual employees impute meaning onto managerial motivations (Chen & Wang, 2014; Fontinha et al., 2012; Nishii et al., 2008; Mignonac & Richebé, 2013; Van de Voorde & Beijer, 2015), but it is not clear exactly how team‐level HRAs, when they emerge, subsequently affect team members’ behaviours in the workplace. 
+The key problem in trying to explain this theoretical mechanism is that the missing link between thoughts (e.g., attributions) and behavioural outcomes (e.g., performance) requires a catalyst of sorts. Using a team‐level mediation model (Hewett et al., 2018), we argue that team‐level HRAs can potentially impact on team performance through the mediating effect of team engagement. Whereas individual employee engagement refers to the affective‐motivational state of individuals in the working environment (Costa, Passos, & Bakker, 2014a; Schaufeli, Bakker, & Salanova, 2006) and manifests as a cognitive, emotional, and behavioural commitment to work (Kahn, 1990), team engagement is defined here as a collective, positive, fulfilling and affective motivational state of work‐related, team‐based commitment (Alfes, Truss, Soane, Rees, & Gatenby, 2013; Costa et al., 2014a). Where individual work engagement is dependent on job demands and resources (Bakker, Demerouti, & Schaufeli, 2005), team engagement, as a collective construct, is dependent on the more complex cycles of interaction responsible for creating an aggregated pattern of behaviour among team members (Costa et al., 2014a; Morgeson & Hofmann, 1999). 
+Following Peccei and Van De Voorde's (2019) well‐reasoned analysis of compositional models (see also Preacher, Zyphur, & Zhang, 2010), a two‐step explanatory approach is also applied here. At step one, we suggest that individual attributes can ‘coalesce’ positively or negatively at the group or team level to enable or retard team engagement. This is because shared perceptions of a supportive or unsupportive work environment can help or hinder employees to develop a collective state of being engaged (Bakker, Albrecht, & Leiter, 2011). This collective engagement can become ‘contagious’ and transferrable to other team members. At step two, commitment‐focused HRAs, wherein teams attribute positive motivations to HR practices inasmuch as they appear to be employee‐ oriented, are associated with increased levels of team engagement, which in turn has a positive impact on team performance. Contrariwise, control‐focused HRAs, wherein teams attribute negative motivations to HR practices inasmuch as they appear to be organization‐oriented, are associated with decreased levels of team engagement, which in turn has a negative impact on team performance. 
+In contrast to a large number of studies confirming a positive relationship between individual engagement and performance (e.g., Schaufeli et al., 2006), Tims, Bakker, Derks, and Rhenen (2013) argue that team engagement should similarly have a positive impact on team performance because the underlying mechanism at either the team or individual level remains largely same. Team members are subject to the normative impact of team engagement, which then becomes a predictor of team performance (Barrick, Thurgood, Smith, & Courtright, 2014). To date, 
+
+6 
+- 
+FAN ET AL.
+
+several studies have confirmed the positive relationship between collective engagement and collective performance. For instance, a meta‐analysis of 42 studies conducted in 36 independent companies undertaken by Harter, Schmidt, and Hayes (2002) shows that team employee satisfaction and team engagement can effectively predict team‐level outcomes, such as customer satisfaction, gain in yields and profits. Since team engagement is an effective and valid predictor of team performance (Barrick et al., 2014; Tims et al., 2013), we therefore hypothesize the mechanism between team‐level HRAs, team engagement and team performance, as follows: 
+Hypothesis 1a (H1a): Team engagement mediates the positive relationship between commitment‐focused team‐level HRAs and team performance. 
+Hypothesis 1b (H1b): Team engagement mediates the negative relationship between control‐focused team‐ level HRAs and team performance. 
+2.3 | The moderating effect of transformational leadership 
+The relationship between team HRAs and team performance through team engagement does not exist in a man agement and/or leadership vacuum. That is to say that the different styles of leadership (e.g., directive, empowering, transactional, employee‐oriented, and transformational, see Liu, Lepak, Takeuchi, & Sims, 2003) are very likely to alter the nature, and perhaps even the trajectory, of the relationship between team‐based collective HRAs and team engagement. Nishii et al. (2008) note that, in times attributional uncertainty, employees will look to leaders to gain clarity over the meaning of HR practices. It follows that, the effectiveness with which leaders communicate, clarify and illuminate the rationale for HR practices will likely change the relationship between team HRAs and team engagement, with further downstream implications for team performance. 
+Among the different styles of leadership noted in the preceding paragraph, our study focuses on the moder ating role of self‐awareness of transformational leadership between team‐based collective HRAs and team engagement (Bass & Riggio, 2006). Transformational leadership is defined as a management technique that inspires employees by ‘broadening and elevating followers’ goals and providing them with confidence to perform beyond the expectations specified in the implicit and explicit exchange agreement’ (Dvir, Eden, Avolio, & Shamir, 2002, p. 735). This style of leadership is particularly relevant to the clarification of ambiguous HRAs because trans formational leaders purport to work directly with teams to effect positive change, increase team efficiency, and create strong, collective norms and values (Arnold, Barling, & Kelloway, 2001; Weller et al., 2020). Moreover, transformational leaders also purport to play a key role in building organizational culture and values (Bass & Avolio, 1993), which should, in theory, provide team members with increased clarity over what the organization is trying to achieve, what it wants from employees, and how it hopes to achieve its goals. 
+The moderating effect of self‐evaluated transformational leadership as a context variable in our mediation model is based on the following rationale. Team leaders’ self‐awareness of being transformational leaders should provide a structuring context in which they accordingly behave as transformational leaders, including trans formational practices such as idealized influence, inspirational motivation, intellectual stimulation and individual ized consideration (Bass & Avolio, 1992; Podsakoff et al., 1990; Weller et al., 2020). Moreover, scholars such as Tekleab, Sims, Yun, Tesluk, and Cox (2008) and Atwater and Yammarino (1997) argue that self‐awareness of transformational leadership is strongly related to actual leader effectiveness. For commitment‐focused team‐level HRAs, transformational leadership, when levels are reportedly high, is expected to strengthen and reinforce positive attributions that employees impute into HR practices, thereby reinforcing a convergence in sensemaking (Maitlis & Christianson, 2014; Weller et al., 2020). In this light, more effective transformational leadership crystallizes employees’ already positive perceptions of management, thus promoting team engagement and, indirectly, team performance. In line with Bowen and Ostroff (2004), team‐level commitment‐focused HRAs should align with team leaders’ self‐awareness of transformational leadership. A climate of ‘consistency’ then emerges within a team. In this situation, team members should respond attitudinally and behaviourally to HR practices in a 
+FAN ET AL. 
+7
+- 
+positive manner, which then leads team members collectively to engage positively in their work, thus generating similarly positive team performance outcomes. Based on this rationale, we propose: 
+Hypothesis 2a (H2a): When transformational leadership is high, the positive relationship between commit ment‐focused team‐level HRAs and team performance through team engagement is strengthened. While the logic underlying the moderated mediation between commitment‐focused team‐level HRAs and team performance is fairly straightforward and stands the reason, the rationale underlying the moderated mediation between control‐focused team‐level HRAs and team performance is somewhat more convoluted. Assuming, once again, that self‐awareness of transformational leadership is a context variable, one might then hypothesize that high self‐ratings of such leadership could potentially mitigate the negative impact of control‐focused attributions on team engagement and performance. The rationale underlying this assumption is that a strong transformational leadership ‘climate’ (Bowen & Ostroff, 2004) should serve to shift control‐focused attributions (Nishii et al., 2008; Barrick et al., 2014) in the direction of more commitment‐focused attributions. In this light, team leaders who exhibit transformational leadership styles are likely to engage personally in conversations with team members, such as informing and consulting members on cost reduction strategies, initiating conversations on why profit maximization is strategically important, and even motivating teams (Weller et al., 2020). In so doing, the negative relationship between control‐focused HRAs and team engagement (and team performance, in turn) is likely to be buffered to some extent. Thus, we propose: 
+Hypothesis 2b (H2b): When transformational leadership is high, the negative relationship between control‐ focused team‐level HRAs and team performance through team engagement is buffered. In conclusion, to our mediation framework, wherein team engagement is hypothesized to mediate the relationship between a two‐factor model of team‐level HRAs and team performance, we have now added some boundary conditions in the form of self‐awareness of transformational leadership as a moderator. Transformational leadership can be expected to variously influence the pathways between commitment‐focused and control‐focused team‐level HRAs and team performance through team engagement. This more complex moderated mediation model is depicted graphically in Figure 1. 
+3 | METHODS 
+3.1 | Sample and data collection 
+The data were collected in the People's Republic of China. Multiple industries (services and manufacturing) were adopted to control for industry effects and enhance the generalizability of our findings (Dess, Ireland, & Hitt, 1990). Prior to conducting our field study, we sent an e‐mail or telephoned senior executives and HR managers in a number of possible organizations to communicate the purpose of our research. The sampling frame comprised team employees and supervisors of seven private and public organizations in four cities in Jiangsu province. All seven organizations are small‐sized and medium‐sized, with total employee numbers ranging from 250 to 400. A single province was selected to eliminate possible subnational cultural and institutional differences. The survey was administered by a member from the research team with support from senior executives and the HR department. 
+We drew our sample based on a list of all teams (including all team members’ names and supervisors’ names) provided by the HR departments. We set two criteria for selecting the team: it must have been established for over 3 months, and it must have at least five team members (including one team leader). We then coded a two‐digit number, of which the ‘tens’ digit represents each organization and the ‘units’ digit refers to each team. A ques tionnaire was designed first in English and translated into Chinese, and was pilot tested on 163 MBA students at a Chinese university to ensure consistency. The survey, carried out between September 2012 and May 2013, was self‐administered and confidential. Data collectors distributed the questionnaires on a team‐by‐team basis and 
+
+8 
+- 
+
+FAN ET AL.
+
+FIGURE 1 Theoretical model. Note: The * sign refers to data for the particular construct was assessed by team leaders, while the remaining constructs were evaluated by employees. HRA, human resource attributions 
+were on‐site to explain any possible concerns to participants. Respondents were instructed to return completed questionnaires to a locked collection box in each organization. 
+Several procedural remedies suggested by Podsakoff et al. (2003) were adopted to reduce common method bias (CMB). First, the introduction letter and instructions clearly stated that the survey was confidential. Second, proximal separation was used in the questionnaire design. The theoretically associated variables, such as HRAs and engagement, were separated by demographic and other unrelated variables. Such proximal separation reduces method‐induced variations and correlations. Third, we designed and collected data from two different sources: team members were asked to evaluate HRAs and engagement, and supervisors of each team were required to assess team performance and their own transformational leadership. 
+A total of 750 team member questionnaires and 95 team leader questionnaires were distributed. In total, 722 team member questionnaires were returned (response rate of 96.3%), and a total of 95 team leader ques tionnaires were returned. We conducted a strict cross‐level data matching process, that is, each team must have one (only one) supervisor and at least four team members to complete the questionnaire. After data matching and cleaning, we obtained sample data from 77 teams, which included 77 valid supervisor questionnaires and 631 valid employee questionnaires, for a total of 708 participants (77 supervisors plus 631 employees). The average team size (number of employees per team) was 8.19 (SD ¼ 3.58). Table 1 reports a summary of sample demographics, including team employees and supervisors. 
+3.2 | Variables and measurements 
+3.2.1 | Team HRAs 
+Team HRAs were measured by two factors, commitment‐focused HRAs and control‐focused HRAs (Nishii et al., 2008; Chen & Wang, 2014). We adopted the HRA scale from Nishii et al. (2008, p. 509), but excluded the original five items on trade unions because there are no independent unions in China (Taylor & Li, 2007). Respondents rated two commitment‐focused HRAs (work quality and employee well‐being) and two control‐ focused HRAs (cost reduction and employee exploitation) for each of the five selected HR practices (training, benefits, hiring choices, compensation, and scheduling). An example set of commitment‐focused HRAs items includes, ‘Our company provides employees with the training that it does: (1) in order to help employees deliver quality products or service to customers; (2) so that employees will feel valued and respected—to promote employee well‐being’. An example set of control‐focused HRAs items includes, ‘Our company provides employees 
+FAN ET AL. 
+9
+- 
+TABLE 1 Sample description (Individual N ¼ 708; Team N ¼ 77) 
+Individual (n ¼ 708) Team (n ¼ 77) 
+Individual characteristic Individual characteristic value % Team characteristic Team characteristic value % Gender Male 40.7 
+Female 59.3 Hotel service 40.3 Age Up to 24 26.0 Industry Medical care 31.2 25–34 38.3 Manufacture 28.5 35–44 21.9 
+45–54 11.7 
+55 and above 2.1 
+Education Junior high school or below 35.9 Ownership Private 55.8 High school 17.2 
+Junior college 28.8 Not private 44.2 Bachelor degree or higher 18.1 
+Length of service Up to 1 year 23.6 
+2–3 years 27.5 5–6 24.7 4–6 years 22.1 Team size 7–11 55.9 7–9 years 9.7 12 and above 19.4 10 years and above 17.1 
+the training that it does: (1) to try to keep costs down; (2) in order to get the most work out of employees’. Responses were rated on a 5‐point Likert, ranging from 1 (strongly disagree) to 5 (strongly agree). Cronbach's alphas for commitment‐focused HRAs and control‐focused HRAs were 0.88 and 0.90, respectively. 
+3.2.2 | Team engagement 
+The literature mainly demonstrates two approaches to collecting data on collective constructs: the consensus model and the referent‐shift composition model (Chan, 1998; Costa, Passos, & Bakker, 2014b). The consensus model asks individually focused items (e.g., ‘I …’), whereas the referent‐shift model refers to the collective in the measure (e.g., ‘we or my team members …’) (Chan, 1998). In line with Seibert, Silver, and Randolph (2004, p. 334), if the level of analysis for a particular construct is the individual, then ‘the appropriate level from which to collect data, the level of measurement, is also the individual’. Similar to the concept of empowerment climate in Seibert et al. (2004), the concept of team engagement is derived from employee engagement, as discussed above. Both concepts at different levels reflect a common affective‐motivational state in the working environment (Costa et al., 2014a; Kahn, 1990). In this sense, Morgeson and Hofmann (1999) argue that it is possible to measure collective phenomena at the individual level and still address theoretical questions at the collective level. 
+We adopted the consensus model to measure the collective construct ‘team engagement’. In employee engagement, individuals express themselves physically, cognitively, behaviourally, and emotionally during the performance of their work roles. In contrast to Costa et al. (2014b), work engagement, as a kind of psychological state of being devoted to work, is difficult to observe. More importantly, we specified, prior to administering the engagement measurement items, ‘Please respond with your psychological state in your current teamwork’. Thus, 
+
+10 
+- 
+FAN ET AL.
+
+we measured employee engagement as a team construct rather than as an individual construct. In so doing, we employed an 18‐item scale derived from Rich, Lepine, and Crawford (2010) by measuring three dimensions of employee engagement (physical, cognitive and emotional). An example item is, ‘At work, I am absorbed by my job’. The Cronbach's alpha was 0.93. 
+3.2.3 | Transformational leadership 
+Inspired by prior studies (e.g., Atwater et al. 1998; Tekleab et al., 2008), we focused on team leaders' self‐awareness of transformational leadership (self‐evaluated). The four dimensions of transformational leadership, including in tellectual stimulation, inspirational motivation, individualized consideration and idealized influence, were measured with 12‐items from the mature Multifactor Leadership Questionnaire (MLQ Form 6S; Bass & Avolio, 1992). An example item is, ‘Others will be proud to associate with me’. The Cronbach's alpha was 0.87. 
+3.2.4 | Team performance 
+Team performance was our dependent variable. We adopted a team performance scale from Oh, Chuang, and Labianca (2004). We averaged team leaders' responses to four relevant items: ‘please indicate the quality of work done by your team’, ‘please indicate the level of productivity of your team’, ‘please indicate how quickly your team responds to problems and opportunities’ and ‘please indicate the overall performance level of your team’. We obtained a Cronbach's alpha of 0.77. 
+3.2.5 | Control variables 
+In line with Flinchbaugh, Li, Luth, and Chadwick (2016), the basic characteristics of a team that may affect team engagement and team performance were controlled for, including team size, team experience, contact frequency and high‐performance work systems (HPWS). Team experience refers to the mean value of the number of years in which team members have belonged to the team. Contact frequency refers to the frequency of contact between team members. HPWS refers to a set of broadly defined HRM practices, including performance‐related pay, various employee communication programs, training, and team‐based work (Den Hartog et al., 2013). Given the strong need for high engagement and commitment in a dynamic and diversified workforce, an increasing amount of research on HRM has focused on exploring the effects of the HPWS on employee performance and the underlying mechanisms (Fan et al., 2014). Team leaders assessed HPWS using a 10‐item scale adopted from Den Hartog et al. (2013), with participants responding on a 5‐point Likert, where 1 ¼ strongly disagree to 5 ¼ strongly agree, covering: ability‐, motivation‐ and empowerment‐enhancing practices, including training, development, promotion, performance management, teamwork, autonomy and job design. The Cronbach's alpha for the HPWS control was 0.79. Additionally, to account for diversity within the teams, we ran our models with the following controls: age heterogeneity, gender heterogeneity and academic heterogeneity. Our study used Blau (1977) heterogeneity index to calculate the three heterogeneity variables mentioned above for each team: 
+
+H ¼ 1  ∑n i¼1 
+ðPiÞ2 
+
+where, H represents the value of team heterogeneity; i represents the total number of heterogeneous categories, and Pi represents the percentage of i members in a team. Finally, we also consider potential 
+FAN ET AL. 
+11
+- 
+firm‐level effects by controlling for industry and ownership. Industry was divided into three categories (see Table 1). 
+3.3 | Analysis 
+We used the maximum likelihood estimator of Mplus. Structural equation modelling (SEM) is appropriate for our study because it allows complex relationships between latent constructs to be tested simultaneously, which enhances the strength of the test over a conventional regression method (Gong, Chang, & Cheung, 2010). Anderson and Gerbing (1988) comprehensive two‐stage SEM analytical procedure was followed. The first stage was to perform confirmatory factor analyses to confirm the measurement validity of study variables (i.e., commitment‐focused HRAs, control‐focused HRAs, team engagement, team performance and transformational leadership). Our five‐factor confirmatory factor analysis model demonstrates a better fit (χ2 ¼ 1370.682, df ¼ 1,167, RMSEA ¼ 0.048, CFI ¼ 0.964, TLI ¼ 0.955 and SRMR ¼ 0.092) than both an alternative four‐factor model when commitment‐focused HRAs and control‐focused HRAs are combined (χ2 ¼ 4,781.366, df ¼ 1,371, RMSEA ¼ 0.180, CFI ¼ 0.390, TLI ¼ 0.363 and SRMR ¼ 0.150). The second stage estimated the structural model (see Figure 1) to test the hypotheses. 
+Both HRAs and work engagement are measured at the individual level (Mignonac & Richebé, 2013). However, Nishii et al. (2008, p. 53) state that ‘it is entirely possible for HRA to emerge as a group‐level construct’. To examine whether there are sufficient empirical grounds to convert HRA into a team‐level construct, we followed Bliese (2000) and DeShon, Kozlowski, Schmidt, Milner, and Wiechmann (2004) group‐level aggregation procedure, and a random group resampling (RGR) approach in particular (Castro, 2002). In so doing, we tested the value of intraclass correlation coefficients (ICCs) and the rwg(j) index, where ICC assesses how strongly variables within the same group resemble each other, while the rwg(j) index determines whether it is appropriate to aggregate data to higher levels of analysis. Our results show that, for commitment‐focused HRAs, the rwg(j) mean is 0.925 with a median of 0.957, which is higher than the acceptable cut‐off of 0.70 (George, 1990); ICC(1) ¼ 0.225 and ICC(2) ¼ 0.704, which are also greater than the acceptable cut‐off of >0.05 for the ICC(1) and 0.50 for ICC(2) (James, 1982). For control‐ focused HRAs, the rwg(j) mean was 0.971; the rwg(j) median was 0.942; ICC(1) ¼ 0.289 and ICC(2) ¼ 0.769. These results can be interpreted as, for each group in our sample, about 22.5%–28.9% of the variance among group members’ responses can be explained by the team as a whole, while both 0.704 and 0.769 suggest team‐level means are reliable. Further, both 0.925 and 0.971 indicate strong average within‐team agreement for both commitment‐ and control‐focused HRAs. In addition, for employee engagement, the rwg(j) mean was 0.975; the rwg(j) median was 0.980; ICC(1) ¼ 0.376 and ICC(2) ¼ 0.832. We also conducted a data aggregation test at the organizational level, but the ICC(1) for both commitment‐ and control‐focused HRAs is less than 0.05 (0.031 and 0.024, respectively). These results confirm the appropriateness of data aggregation to the team level. We then calculated, respectively, the mean of HRAs and work engagement as the team value to conduct a team‐level, rather than multilevel, SEM. 
+4 | RESULTS 
+4.1 | Descriptive statistics 
+The means, standard deviations and correlation coefficients for all variables at the team level are reported in Table 2. As shown in this table, commitment‐focused HRAs and team performance (r ¼ .391, p < .001), and commitment‐ focused HRAs and team engagement (r ¼ .631, p < .001) are significantly positively correlated. The correlations between control‐focused HRAs and team performance (r ¼ .171, p > .05) and control‐focused HRAs and team engagement (r ¼ .096, p > .05) are not significant. 
+12 
+- 
+) 
+77
+¼ 
+N 
+m 
+a
+e
+T(
+s 
+t
+n
+e
+ic
+fif
+e
+o
+c
+a 
+h
+p
+la
+s 
+'
+hc
+a
+bn
+o
+r
+C
+d 
+n
+a
+s 
+n
+o
+it
+a
+l
+e
+r
+r
+o
+C
+2 
+E L
+BA
+4 1
+3 1
+2 1
+1 1
+0 1
+9 8 7 6 
+5 4 
+3 2 1 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+y 
+t
+ie
+n
+e
+g
+o
+r
+e
+t
+e
+h
+e 
+g
+A. 
+1
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+1 9
+0.
+0
+y 
+t
+ie
+n
+e
+g
+o
+r
+e
+t
+e
+h
+r 
+e
+d
+n
+e
+G. 
+2
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+5 0
+0.
+0
+3 1
+0.
+0
+y 
+t
+ie
+n
+e
+g
+o
+r
+e
+t
+e
+h
+c 
+i
+m
+e
+d
+a
+c
+A. 
+3
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+6 9
+0.
+0 
+7 0
+0.
+0 
+7 5
+0.
+0 
+y c
+n
+e
+u
+q
+e
+r
+f
+t c
+a
+tn
+o
+C. 
+4
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+3 7
+1.
+0
+* *
+56
+3.
+0 
+4 0
+1.
+0 
+0 1
+2.
+0
+e 
+z
+is
+m 
+a
+e
+T. 
+5
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+* 92
+2.
+0 
+8 1
+0.
+0
+* *
+74
+3.
+0
+5 7
+0.
+0 
+9 0
+2.
+0
+e 
+c
+n
+e
+ir
+e
+p
+x
+e
+m 
+a
+e
+T. 
+6
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+3 4
+0.
+0
+5 1
+0.
+0
+9 4
+0.
+0
+6 0
+0.
+0 
+1 0
+0.
+0 
+6 2
+0.
+0 
+S 
+WP
+H. 
+7
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+* *
+00
+3.
+0
+* *
+03
+3.
+0
+* *
+*
+51
+4.
+0 
+3 5
+1.
+0
+* *
+*
+95
+4.
+0
+5 0
+0.
+0 
+1 1
+1.
+0 
+y 
+r
+t
+s
+u
+d
+n
+I. 
+8
+‐ 
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+* *
+*
+54
+4.
+0 
+* 33
+2.
+0 
+* *
+*
+52
+5.
+0 
+* 26
+2.
+0
+1 5
+0.
+0
+* 2
+4
+2.
+0 
+6 7
+1.
+0
+5 1
+2.
+0 
+p 
+i
+h
+s
+r
+e
+n
+w
+O. 
+9
+‐ 
+‐ 
+‐ 
+‐ 
+1 
+6 4
+0.
+0 
+9 0
+1.
+0
+0 2
+2.
+0
+5 6
+1.
+0 
+2 2
+0.
+0
+6 1
+2.
+0
+7 6
+0.
+0 
+7 6
+0.
+0
+0 7
+0.
+0 
+s 
+AR
+H
+d 
+e
+s
+u
+c
+o
+f‐
+t
+n
+e
+m
+ti
+m
+m
+o
+C. 
+01
+‐ 
+‐ 
+‐ 
+1 
+2 
+2
+0.
+0
+5 3
+1.
+0
+4 0
+0.
+0
+4 4
+0.
+0
+4 8
+0.
+0 
+7 2
+0.
+0 
+9 9
+1.
+0 
+3 4
+0.
+0
+2 9
+0.
+0 
+3 3
+0.
+0 
+s 
+AR
+H
+d 
+e
+s
+u
+c
+o
+f
+‐
+l
+o
+r
+tn
+o
+C. 
+11
+‐ 
+‐ 
+1 
+6 
+9
+0.
+0
+* 
+*
+*
+1
+3
+6.
+0
+5 3
+0.
+0
+0 5
+1.
+0
+* 44
+2.
+0
+* *
+14
+3.
+0 
+4 3
+0.
+0
+* 93
+2.
+0
+0 6
+0.
+0 
+8 1
+0.
+0 
+6 9
+1.
+0 
+t 
+n
+e
+m
+e
+g
+a
+g
+n
+e
+m 
+a
+e
+T. 
+21
+‐ 
+1 
+* *
+*
+3
+4
+4.
+0
+1 
+7
+1.
+0
+* 
+*
+*
+1
+9
+3.
+0
+* *
+40
+3.
+0 
+* *
+86
+3.
+0
+* *
+*
+59
+3.
+0
+4 1
+0.
+0 
+* 98
+2.
+0 
+5 6
+0.
+0 
+9 3
+1.
+0
+8 4
+0.
+0
+2 6
+0.
+0 
+e 
+c
+n
+a
+m
+r
+o
+fr
+e
+p
+m 
+a
+e
+T. 
+31
+1 
+1 
+0
+2.
+0
+* 4
+7
+2.
+0
+6 
+5
+0.
+0
+8 
+2
+1.
+0
+3 9
+1.
+0 
+1 2
+1.
+0
+* *
+*
+04
+4.
+0
+0 7
+0.
+0 
+3 9
+0.
+0
+4 1
+0.
+0
+7 9
+0.
+0 
+5 2
+0.
+0
+6 8
+1.
+0
+L 
+T. 
+41
+9 
+6.
+3
+4 
+7.
+3
+1 
+5.
+3
+7 
+2.
+3
+7 
+4.
+3
+6 
+5.
+0
+8 
+8.
+1
+4 
+6.
+3
+5 
+4.
+5
+9 
+1.
+8
+9 
+6.
+3
+3 
+3.
+0
+9 
+1.
+0
+5 
+4.
+0
+n 
+a
+e
+M
+3 
+5.
+0
+3 
+5.
+0
+3 
+4.
+0
+6 
+4.
+0
+8 
+3.
+0
+0 
+5.
+0
+3 
+8.
+0
+3 
+5.
+0
+2 
+3.
+4
+8 
+5.
+3
+6 
+3.
+0
+3 
+2.
+0
+9 
+1.
+0
+0 
+2.
+0
+D S
+. 
+la
+n
+o
+g
+a
+id
+e 
+ht
+n 
+o
+e 
+r
+a
+s 
+t
+n
+e
+ic
+fif
+e
+o
+c
+a 
+h
+p
+la
+s 
+'
+hc
+a
+bn
+o
+r
+C: 
+e
+t
+o
+N
+. 
+10
+0.
+< 
+p 
+*
+*
+*
+, 
+1
+0.
+< 
+p 
+*
+*
+, 
+5
+0.
+< 
+p 
+*
+. 
+p
+i
+h
+s
+r
+e
+da
+e
+ll 
+a
+n
+o
+it
+a
+m
+r
+o
+fs
+n
+a
+r
+t
+, 
+L
+T; 
+s
+m
+e
+t
+s
+y
+s
+k r
+o
+w
+e 
+c
+n
+a
+m
+r
+o
+fr
+e
+p
+h 
+gi
+h, 
+S
+WP
+H: 
+s
+n
+o
+it
+a
+iv
+e
+r
+bb
+A
+FAN ET AL.
+T
+FAN ET AL. 
+13
+- 
+4.2 | SEM results 
+Next, we estimated the theoretical model (see Figure 1) to test H1a,b and H2a,b. To assess the significance of the potential indirect effect, we employed a bootstrap procedure (Hafenbrädl & Waeger, 2017), resampling 1,000 times and using the bootstrap percentile method to create 95% confidence intervals. The results are presented in Table 3. The mediation model fit is good: χ2 ¼ 20.475, df ¼ 18, RMSEA ¼ 0.042, CFI ¼ 0.970, TLI ¼ 0.962 and SRMR ¼ 0.078. As shown in Table 3, commitment‐focused HRA is positively associated with team engagement (direct effect ¼ 0.580, 95% CI of [0.333, 0.791]). Team engagement, in turn, is positively associated with team performance (direct effect ¼ 0.352, 95% CI of [0.043, 0.633]). Commitment‐focused HRA, however, is not statistically significantly associated with team performance (direct effect ¼ 0.206, 95% CI of [ 0.085, 0.535]). In addition, we found that commitment‐focused HRA is associated with team performance through team engagement (indirect effect ¼ 0.204, 95% CI of [0.038, 0.421]), showing that the indirect effect of commitment‐ focused HRAs on team performance through team engagement is significant. Therefore, H1a is supported by the data. 
+With regard to H1b, control‐focused HRA was not significantly related to team engagement (direct effect ¼ 0.075, 95% CI of [ 0.103, 0.275]). As noted above, team engagement is positively related to team per formance (direct effect ¼ 0.352, 95% CI of [0.043, 0.633]). However, control‐focused HRA was not significantly related to team performance (direct effect ¼ 0.147, 95% CI of [ 0.090, 0.394]). In addition, the estimates of control‐focused HRAs on team performance through team engagement (indirect effect ¼ 0.026, 95% CI of [ 0.026, 0.145]) include zero, showing that the indirect effect of control‐focused HRAs on team performance through team engagement is also not significant. Therefore, team engagement does not appear to mediate the relationship between control‐focused HRAs and team performance. H1b is thus not supported by the data. 
+We then tested the moderating effect of transformational leadership between commitment‐focused HRAs and team performance through team engagement (H2a). The results are presented in Figure 2. The model fit is good: χ2 ¼ 54.568, df ¼ 48, RMSEA ¼ 0.042, CFI ¼ 0.927, TLI ¼ 0.956 and SRMR ¼ 0.078. Before the inter action term was estimated, the independent variable (HRA) and the moderating variable (self‐awareness of transformational leadership) were mean centred. After taking all the variables into consideration (commitment‐ focused HRA, control‐focused HRA, transformational leadership, commitment‐focused HRA � transformational leadership, control‐focused HRA � transformational leadership and controls), team engagement had a positive and significant effect of 0.247 (p ¼ .049) on team performance. Also, commitment‐focused HRA � trans formational leadership had a positive and significant effect of 0.192 (p ¼ .015) on team engagement. Thus, we obtained empirical support for Hypothesis 2a. Given that H1b was not supported in the first place, H2b is also not supported. 
+Following Hayes (2013) and Preacher, Rucker, and Hayes (2007), we further tested the conditional indirect effect with the bootstrapping procedure (see Table 4). The results of 1,000 bootstrapped samples demonstrated that the indirect effect from commitment‐focused HRAs to team performance (through team engagement) was significant at a high level of transformational leadership (bootstrapping estimate ¼ 0.308, 95% CI ¼ [ 0.117, 0.601]) but not significant at a low level of transformational leadership (bootstrapping estimate ¼ 0.040, 95% CI ¼ [ 0.165, 0.303]). The indirect effect from control‐focused HRAs to team performance (through team engagement) was not significant at a high level of transformational leadership (bootstrapping estimate ¼ 0.026, 95% CI ¼ [ 0.018, 0.182]), nor at a low level of transformational leadership (bootstrapping estimate ¼ 0.020, 95% CI ¼ [ 0.032, 0.135]). Thus, support for H2a and lack of support for H2b are further verified. 
+In addition, we conducted simple slope tests to illustrate the moderating effect of transformational leadership. Figure 3 shows the interaction pattern. The results indicate that when team supervisors report low trans formational leadership, the positive relationship between commitment‐focused team‐level HRAs and team engagement is weakened. When team supervisors report a high level of transformational leadership, the impact of commitment‐focused team‐level HRAs on team engagement is strengthened. Hence, commitment‐focused 
+
+14 
+- 
+TABLE 3 Hypothesis testing: bootstrap result (n ¼ 1000) 
+Bootstrapping 95%CI 
+FAN ET AL.
+
+Team‐level HRAs Paths 
+Estimate SE Lower Upper 
+Commitment‐focused HRAs 
+Commitment‐focused HRAs → Team performance 0.206 0.156  0.085 0.535 Commitment‐focused HRAs → Team engagement 0.580*** 0.119 0.333 0.791 Team engagement → team performance 0.352* 0.153 0.043 0.633 
+
+Commitment‐focused HRAs → team engagement → team performance 
+0.204* 0.099 0.038 0.421 
+
+Control‐focused HRAs Control‐focused HRAs → Team performance 0.147 0.124  0.090 0.394 Control‐focused HRAs → Team engagement 0.075 0.096  0.103 0.275 Team engagement → team performance 0.352* 0.153 0.043 0.633 
+
+Control‐focused HRAs → Team engagement → Team 
+performance 
+*p < .05, **p < .01, ***p < .001. 
+0.026 0.042  0.026 0.145 
+
+team‐level HRAs are positively related to team engagement, especially in work units with high transformational leadership, which further supports H2a. 
+5 | DISCUSSION AND CONCLUSIONS 
+This study sought to explore the nature ofthe relationship between team‐level HRAs and team performance and how said relationship is subject to boundary conditions. Our major findings are threefold. First, we confirmed Nishii et al.'s (2008) prediction that individual‐level HRAs can indeed be aggregated as team‐level attributions. Second, team engagement mediates the relationship between commitment‐focused team‐level HRAs and team performance, but no mediating effect was found between control‐focused team‐level HRAs and team performance. Third, a moderated mediation effect involving transformational leadership was evident for commitment‐focused team‐level HRAs, but not for control‐focused team‐level HRAs. It would thus appear that collectively positive attributions in respect to team leaders’ motivations, in and of themselves, are unrelated to team performance outcomes, and it is only via team engagement that team performance is improved, indirectly, from team‐level HRAs. This team‐level mediation effect deepens our understanding of team‐level HRAs on various work‐related team outcomes (Nishii et al., 2008; Shantz et al., 2016; Fontinha et al., 2012; Chen & Wang, 2014; Van de Voorde & Beijer, 2015). 
+One might question why a mediation effect and a moderated mediation effect were not found between control‐ focused team‐level HRAs and team performance. The neutral effect of control‐focused team‐level HRAs may reflect the collectivist‐orientated working culture in China (Chow, Huang, & Liu, 2008; Fan et al., 2014). In Chinese organizations, on the one hand, employees accept that sacrificing individual interests for the sake of collective interests is culturally and ethically sound (Fan et al., 2014); on the other hand, team members may also see benefits for themselves if the organization can better and more effectively utilize resources, including human resources. Where members with control‐focused team‐level HRAs think that the motivation underlying control‐focused practices is to maximize profit at the expense of people (Chen & Wang, 2014), self‐awareness of transformational leadership sends a buffering signal to team members and lends itself to an ambiguous, or weak, situation where collective, control‐focused team‐level HRAs form. In addition, the fact that we found no relationship between control‐focused team‐level HRAs and team performance is consistent with the mixed results reported in previous research on this topic (Van de Voorde & Beijer, 2015). 
+FAN ET AL. 
+15
+- 
+s 
+m
+e
+t
+s
+y
+s
+k 
+r
+o
+w
+e 
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+h 
+g
+i
+h
+, 
+S
+W
+P
+H
+; 
+s
+n
+o
+i
+t
+u
+b
+i
+r
+t
+t
+a
+e 
+c
+r
+u
+o
+s
+e
+r
+n 
+a
+m
+u
+h
+, 
+A
+R
+H
+. 
+1
+0
+0
+.
+< 
+p 
+, 
+*
+*
+*
+; 
+1
+0
+.
+< 
+p 
+, 
+*
+*
+; 
+5
+0
+.
+< 
+p 
+, 
+*
+: 
+e
+t
+o
+N
+. 
+s
+t
+l
+u
+s
+e
+r
+s 
+i
+s
+y
+l
+a
+n
+a
+M 
+E
+S
+2 
+E 
+R
+U
+G
+I
+F
+
+16 
+- 
+TABLE 4 Conditional indirect effect of moderated mediation 
+Bootstrapping 95% CI 
+FAN ET AL.
+
+Independent variable Conditional indirect effects (via team engagement) 
+Estimate SE Lower Upper 
+
+Commitment‐focused HRAs Transformational leadership ( 1 SD) 0.040 0.120  0.165 0.303 Transformational leadership (M) 0.174* 0.099 0.018 0.405 
+Transformational leadership (þ1 SD) 0.308** 0.124 0.117 0.601 
+Control‐focused HRAs Transformational leadership ( 1 SD) 0.020 0.042  0.032 0.135 Transformational leadership (M) 0.023 0.038  0.022 0.136 
+Transformational leadership (þ1 SD) 0.026 0.045  0.018 0.182 
+Note. As the moderation effect of control‐focused HRAs was not supported, the conditional indirect effect reported above is only for commitment‐focused HRAs via team engagement. 
+*p < .10, **p < .05, ***p < .01, ****p < .001. 
+
+FIGURE 3 Interaction of commitment‐focused HRAs and TL on team engagement. Note: TL, transformational leadership 
+5.1 | Theoretical implications 
+5.1.1 | Pioneering team‐level HRA research 
+This study is among the first to examine the effects of HRAs on performance at the team level. Although scholars have called for future research on team‐level HRAs (Nishii et al., 2008), to date few empirical studies have focused specifically on how team‐level HRAs affect outcomes. Our study thus responds to NishiiLepak and 
+FAN ET AL. 
+17
+- 
+Schneider, (2008) call for team‐level HRA research. Furthermore, in line with Lepak et al. (2012) and Flinchbaugh et al. (2016), the team level of analysis extends HRM research by shedding light on how HR systems function in team‐based environments. Arguably the most important pioneering innovation of our study is that it extends team‐ level HRM research (Bowen & Ostroff, 2004; Hewett et al., 2018) and shines an empirical and conceptual light on the elusive ‘black box’ linking HRM and performance. 
+5.1.2 | Enriching HRA theory in the organization sensemaking process 
+Because previous studies mainly examine employees’ motivations or reactions in HR systems from a social exchange theoretical perspective (e.g., Mignonac & Richebé, 2013), Kehoe and Wright (2013, p. 362) contend that ‘additional work is still needed assessing the role of employees’ perceptions of HR practices in determining their attitudinal and behavioural outcomes’ (cf. Lepak et al., 2012; Mignonac & Richebé, 2013). Embracing the con ventional knowledge of the formation of team engagement, our findings suggest that team‐level collective HRAs provide an explanation of how teams can be motivated, in terms of their cognition, emotion and psychological stimuli, to affect job‐related behaviours. The attribution process should not be understood as a purely rational, inferential process that relies entirely on objective data, but rather as a more complex psychological process (Weiner, 1986). While our findings suggest that commitment‐focused HRAs can motivate teams to achieve common goals and to improve team effectiveness, our empirical effort not only contributes to team motivation and cognition research (Lepak et al., 2012), but also provides a useful additional explanation for team or collective sensemaking processes. 
+5.1.3 | Exploring the ‘HRA‐performance link’ 
+There is a sizeable literature on the HR‐performance link (Arthur, 1994; Bowen & Ostroff, 2004; Delery & Doty, 1996; Guest, 2011; Sanders & Yang, 2016). This literature is predicated on the assumption that HR practices, if implemented effectively, can result in both individual and organizational performance improvements. Our study adds to this literature in an important way. A key strength of our model is that it provides a comprehensive processual view of an important ‘black box’ HRM process. What is more, the model is uniquely estimated at the team‐level inasmuch as it includes empirical input from both team members and team leaders simultaneously (Peccei & Van De Voorde, 2019). Specifically, we demonstrate that collective team perceptions are necessary, but not sufficient, determinants of team performance. Alternatively stated, ‘common cognitions’ (Timming, 2010) are not enough. In addition, Lepak et al. (2012, p. 247) called for future research to explore different types of HRAs and ‘how … those perceptions impact on [employees’] reactions to HR systems’. Our study answers this call by exploring the mediating effect of team engagement and the moderating effect of transformational leadership in what we call the ‘HRA‐performance link’. 
+5.2 | Practical implications 
+The findings have practical implications for team leaders and HR practitioners. The results highlight the importance of proactively developing team‐level HRAs within working teams. It cannot simply be assumed that leaders and employees are always ‘on the same page’, as it were. Too often managements issue directives to employees or implement policies without first explaining exactly why those directives and policies make sense. Our results suggest that the implementation of a set of HR practices should be accompanied by a clearly explained rationale 
+
+18 
+- 
+FAN ET AL.
+
+underlying those practices. This means transparently communicating to employees the managerial motivations for HR policies and practices, rather than leaving it up to their imaginations. 
+Similarly, in line with Fan et al.'s (2014) arguments, this study also suggests that HRM practitioners should look beyond conventional HR outcomes and pay attention to team‐based motivational understandings (i.e., individual’ collective expectations, commitment to a collective mission and vision, and properly aligned emotional and behavioural responses). Organizations should also seek to extend their view beyond common HR outcomes to include employees’ intersubjective perceptions and make efforts to explore and even shape employees’ collective HRAs. Our findings reveal that, if organizations or team leaders can promote commitment‐focused HRAs, they will elicit positive teamwork and behaviours in the form of team engagement, which is shown here to be beneficial to team performance. Also, this positive link is further enhanced if team leaders can demonstrate transformational leadership, embrace changes, support and develop subordinates, and foster a workplace environment with clear and consistent values, priorities and expectations. 
+5.3 | Limitations and future research 
+The study has several limitations, many of which point to directions for future research. While our findings point to a significant impact of commitment‐focused HRAs on team performance through team engagement, we found no impact of control‐focused HRAs (such as cost reduction and exploiting employee‐oriented HRAs). Although the findings do not necessarily conflict with previous studies, we assume that these results might be limited to the research context—China. In Chinese workplace culture, as alluded to above, most employees generally assert that keeping costs as low as possible, and/or collectively contributing to organizational success as much as possible, is a type of work norm (Chow et al., 2008). As national culture might have an impact on HRA research, we suggest that future studies should be undertaken in other cross‐cultural contexts, and should test the mediation found by our study in a multi‐country design or at least in the context of firms that have working teams consisting of members from various cultural backgrounds. 
+It is also worth noting yet another idiosyncrasy associated with our sample, viz., that it consists exclusively of respondents employed in seven SMEs, each with a range of between 250 and 400 employees and situated in either the services or the manufacturing sectors. Although the unique composition of this sample excludes, for instance, public sector and not‐for‐profit organizations, as well as very small and very large‐sized firms—thus arguably limiting the external validity of the findings—there is no reason to believe, a priori, that the results are not robust across different firm sizes and sectors of the economy. Ultimately, whether the results are indeed robust is an empirical question that necessitates further research, perhaps drawing from a more heterogeneous sample. Also, as noted above, our research design was not multilevel. Future research should seek to enlarge the sample size at the organization level so that hierarchical linear modelling can be performed to evaluate the nested structure of HRAs at multiple levels. 
+Furthermore, a key strength of this study is that it captures the moderating role of self‐awareness of trans formational leadership in our mediation. However, due to the study scope and constraints, the moderating role of other types of leadership, such as directive, transactional or empowering leadership, were not tested (Liu et al., 2003). Future studies should therefore build upon this limitation by testing other types of leadership in the context of team‐level HRAs and behavioural consequences. 
+Another potential limitation of our study is that it focuses on formalized HR practices, thus ignoring the role of informal HR practices. The reason we focused on formalized HRM is that our items were adapted from Nishii et al. (2008), who also employed measures of formal practices. Whilst our emphasis on formalized HR practices increases comparability with their study, it is also likely, we recognize, that team‐level HRAs derive, or emerge, from informal practices as well, or even from perceptions that employees bring with them that have been 
+FAN ET AL. 
+19
+- 
+formulated in other organizations. In short, HRAs are not rigidly shaped by formal HR policies and practices, but are also malleable and thus subject to influences that we were unable to capture in our research design. Another area in which our study can be further refined is by adopting a different set of measurements and controls. For example, an alternative measure of team engagement should be used in future research. Although Costa et al. (2014b) found a significant mean correlation between the consensus model (used in our study) and the referent‐shift composition model, the two measurement approaches may still present statistically significant dif ferences. Given this, we call for future studies to validate the mediating role of team engagement by using the referent‐shift composition model. 
+Finally, although the data were collected from both team supervisors and members to mitigate against the threat of CMB (Podsakoff et al., 2003), we still need to acknowledge that these data are nonetheless cross‐sectional in nature. A cross‐sectional dataset has inherent limitations for capturing developmental change. Future re searchers are therefore encouraged to employ a longitudinal design to better articulate a multilevel mediation, or moderated mediation, to enable claims of causality by using, for example, instrumental variables. 
