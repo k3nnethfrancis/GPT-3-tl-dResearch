@@ -21,16 +21,11 @@ def getPaper(paper_url, filename="random_paper.pdf"):
   downloadedPaperFilePath = pathlib.Path(downloadedPaper)
 
   return downloadedPaperFilePath
-#download paper
-getPaper(r'https://arxiv.org/pdf/2112.08990.pdf')
 
-#asign file name
-paperFilePath ="random_paper.pdf"
 #extract content with pdf pdfplumber
 def getPaperContent(paperFilePath):
   return pdfplumber.open(paperFilePath).pages
 
-paperContent = getPaperContent(paperFilePath)
 #func to display content
 def displayPaperContent(paperContent, page_start=0, page_end=5):
     for page in paperContent[page_start:page_end]:
@@ -59,11 +54,3 @@ def getPaperSummary(paperContent):
         summary = response["choices"][0]["text"]
 
     return summary
-
-# paperSummary = getPaperSummary(paperContent)
-
-# print('...')
-# print('...')
-# print('...')
-# print()
-# print(paperSummary)
