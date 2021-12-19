@@ -26,6 +26,9 @@ def getPaper(paper_url, filename="random_paper.pdf"):
 def getPaperContent(paperFilePath):
   return pdfplumber.open(paperFilePath).pages
 
+paperFilePath = "random_paper.pdf"
+paperContent = getPaperContent(paperFilePath)
+
 #func to display content
 def displayPaperContent(paperContent, page_start=0, page_end=5):
     for page in paperContent[page_start:page_end]:
@@ -40,7 +43,7 @@ my_secret = os.environ['API_KEY']
 def getPaperSummary(paperContent):
     tldr_tag = "\n tl;dr:" #writing the tag so that the GPT-3 model knows when the text stops and when it should start the completion
     openai.api_key = my_secret
-    engine_list = openai.Engine.list()
+    #engine_list = openai.Engine.list()
     
     for page in paperContent:    
         text = page.extract_text() + tldr_tag #xtracting the text from each page and feeding it to the model
@@ -54,3 +57,7 @@ def getPaperSummary(paperContent):
         summary = response["choices"][0]["text"]
 
     return summary
+
+    final = getPaperSummary(paperContent)
+
+    print(final)
