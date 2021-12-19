@@ -1,16 +1,23 @@
+import openai
+import gpdf
 import tkinter as tk
 from tkinter import simpledialog
-import gpdf
 
-####
+####gui
+ROOT = tk.Tk()
+
+ROOT.withdraw()
+# the input dialog
+USER_INP = simpledialog.askstring(title="Test",
+                                  prompt="What's your Name?:")
+
+# check it out
+print("Hello", USER_INP)
+
 
 #summary
 
-####
-#download paper
-
-
-# gpdf.getPaper(r'https://arxiv.org/pdf/2112.08990.pdf', filename="random_paper.pdf")
+gpdf.getPaper(r'https://arxiv.org/pdf/2112.08990.pdf', filename="random_paper.pdf")
 
 #asign file name
 paperFilePath ="random_paper.pdf"
