@@ -19,8 +19,10 @@ def getPaper(paper_url, filename="random_paper.pdf"):
   return downloadedPaperFilePath
 
 #asign file name
-
 paperFilePath ="ona.pdf"
+
+#paper URL - right now can only DL arxiv
+  #however, this it works if you upload the paper manually and import it
 paperURL = r'https://arxiv.org/pdf/2112.08990.pdf'
 
 #download paper
@@ -30,18 +32,21 @@ paperURL = r'https://arxiv.org/pdf/2112.08990.pdf'
 def getPaperContent(paperFilePath):
   return pdfplumber.open(paperFilePath).pages
 
+#parse paper content
 paperContent = getPaperContent(paperFilePath)
+
 #func to display content
 def displayPaperContent(paperContent, page_start=0, page_end=5):
     for page in paperContent[page_start:page_end]:
         print(page.extract_text())
-#run func
+
+#run func to ensure proper formatting
 displayPaperContent(paperContent)
 
-#open ai API
+#openai API
 my_secret = os.environ['API_KEY']
 
-#summarize paper
+#func to summarize paper with gpt3
 def getPaperSummary(paperContent):
     tldr_tag = "\n tl;dr:" #writing the tag so that the GPT-3 model knows when the text stops and when it should start the completion
     openai.api_key = my_secret
@@ -60,8 +65,10 @@ def getPaperSummary(paperContent):
 
     return summary
 
+#get paper summary
 paperSummary = getPaperSummary(paperContent)
 
+#print paper summary
 print('...')
 print('...')
 print('...')
