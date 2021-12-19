@@ -22,7 +22,7 @@ def getPaper(paper_url, filename="random_paper.pdf"):
 
   return downloadedPaperFilePath
 #download paper
-getPaper(r'https://arxiv.org/pdf/2112.08990.pdf')
+#getPaper(r'https://arxiv.org/pdf/2112.08990.pdf')
 
 #asign file name
 paperFilePath ="random_paper.pdf"
@@ -45,7 +45,7 @@ my_secret = os.environ['API_KEY']
 def getPaperSummary(paperContent):
     tldr_tag = "\n tl;dr:" #writing the tag so that the GPT-3 model knows when the text stops and when it should start the completion
     openai.api_key = my_secret
-    engine_list = openai.Engine.list()
+    #engine_list = openai.Engine.list()
     
     for page in paperContent:    
         text = page.extract_text() + tldr_tag #xtracting the text from each page and feeding it to the model
@@ -60,10 +60,10 @@ def getPaperSummary(paperContent):
 
     return summary
 
-# paperSummary = getPaperSummary(paperContent)
+paperSummary = getPaperSummary(paperContent)
 
-# print('...')
-# print('...')
-# print('...')
-# print()
-# print(paperSummary)
+print('...')
+print('...')
+print('...')
+print()
+print('Summary:',paperSummary)
